@@ -1,0 +1,30 @@
+.App {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+  background: -webkit-gradient(linear, left top, right top, from(#b6f492), to(#338b93));
+  background: linear-gradient(to right, #b6f492, #338b93);
+}
+
+.App-night {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+  background: -webkit-gradient(linear, left top, right top, from(#041106), to(#225a3e));
+  background: linear-gradient(to right, #041106, #225a3e);
+}
+/*# sourceMappingURL=app.css.map */

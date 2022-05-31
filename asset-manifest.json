@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5f406c5.css",
+    "main.js": "/static/js/main.fd49b6f0.js",
+    "static/media/reservia.png": "/static/media/reservia.bf99fc8c64a52e622c6f.png",
+    "static/media/moncv.png": "/static/media/moncv.6db0f568cfca6a43d3df.png",
+    "static/media/lespetitplat.png": "/static/media/lespetitplat.0a98186f0e61eb1d4354.png",
+    "static/media/1600px-UGC_2018.png": "/static/media/1600px-UGC_2018.ef4ea09f9a3ecc3e2dfa.png",
+    "static/media/265027817___n.jpeg": "/static/media/265027817_1346734952455713_472836402613626373_n.b5b651415081906c89fd.jpeg",
+    "static/media/1615124005271.jpeg": "/static/media/1615124005271.5478fa909bd8d7df32ed.jpeg",
+    "static/media/skill-icon-6.jpeg": "/static/media/skill-icon-6.3bcd426e37933ce308d0.jpeg",
+    "static/media/Gendarmerie_nationale_logo.svg.png": "/static/media/Gendarmerie_nationale_logo.svg.0236c2dc4c7a9dd09e18.png",
+    "static/media/png": "/static/media/5a1d2c6a4ac6b00ff574e276.d0309e8b8d42ba14efe5.png",
+    "static/media/kisspng-computer-icons-favicon-scalable-vector-graphics-favorites-love-plus-icon-png-5ab0d3940bdab7.png": "/static/media/kisspng-computer-icons-favicon-scalable-vector-graphics-favorites-love-plus-icon-png-5ab0d3940bdab7.8737000215215379400486.3f5364055eac7f8d5310.png",
+    "static/media/arrowR.png": "/static/media/arrowR.34f15419e48859a8b8c7.png",
+    "index.html": "/index.html",
+    "main.c5f406c5.css.map": "/static/css/main.c5f406c5.css.map",
+    "main.fd49b6f0.js.map": "/static/js/main.fd49b6f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f406c5.css",
+    "static/js/main.fd49b6f0.js"
+  ]
+}
